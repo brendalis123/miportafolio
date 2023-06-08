@@ -113,6 +113,27 @@ a >h4:hover{
     
  }
  
+/* aqui inici la sesion de portafolio*/
+.img_proyect1{
+    width:500px;
+    margin-top: 4rem;
+    box-shadow: 1px 1px 10px 1px rgb(219, 63, 63);
+    border-radius: 1rem;
+}
+
+
+ .mi-portafolio{
+    display: flex;
+    gap:2rem;
+justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content:center;
+ }
+ .parrafo-portafolio{
+    margin-bottom: 2rem;
+ }
+
 
 
  
